@@ -20,7 +20,8 @@ ELSE
          DISPLAY "    >> £20 Banknotes: " + notes20
          DISPLAY "    >> £10 Banknotes: " + notes10
          DISPLAY "Thank you for using this Python Bank ATM."
-         DISPLAY "Good Bye."<br>
-      END IF
+         DISPLAY "Good Bye."
+         
+   END IF
    END IF
   END WHILE
