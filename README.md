@@ -27,6 +27,6 @@ IF amount<10 OR amount>200 THEN{
          DISPLAY "Thank you for using this Python Bank ATM."
          DISPLAY "Good Bye."
          
-   END IF
-   END IF
-  END WHILE
+   stop
+  
+  
